@@ -7,11 +7,11 @@ const Banner = () => {
             <div>
              <img src={sateliteImg} alt=""/>
             </div>
-            <div className='space-y-3 xl:pr-36 p-4 border-r-2 
+            <div className='space-y-5 xl:pr-36 p-4 border-r-2 
             border-r-sky-800 border-b-sky-800'>
             <div>
                 <p className='text-sky-800 uppercase'>Our Mission</p>
-                <h1 className='uppercase'>Rapidcast</h1>
+                <h1 className='uppercase'>Satelite</h1>
                 <p>
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                     Debitis in assumenda fugiat, facere adipisci labore rerum a ex libero, 
